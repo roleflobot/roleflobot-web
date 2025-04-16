@@ -1,0 +1,7 @@
+streamlit
+openai
+sounddevice
+scipy
+numpy
+playsound
+num2words
